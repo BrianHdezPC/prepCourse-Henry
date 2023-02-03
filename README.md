@@ -1,2 +1,1 @@
-# prepCourse-Henry
-Repositorio de prueba M2 prep course bootcamp Henry.
+Este es un ejercicio de prueba para clonar un repositorio localmente en mi laptop.
